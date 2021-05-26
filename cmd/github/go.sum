@@ -7,8 +7,8 @@ github.com/bradleyfalzon/ghinstallation v0.1.2 h1:9fdqVadlvEX/EUts5/aIGvx2ujKnGN
 github.com/bradleyfalzon/ghinstallation v0.1.2/go.mod h1:VQsLlCoNa54/CNXcc2DuCfNZrZxqQcyPeqKUugF/2h8=
 github.com/soominhyunwoo/tools/lib/common v1.0.1 h1:6aQ7HjG48NN80xEz9k7dax6qEXPF1/mGVOCbA/H8s+Y=
 github.com/soominhyunwoo/tools/lib/common v1.0.1/go.mod h1:5Cvw1V02PZrSDDuZOmDjwQ+MFVIGS4LJAlQET5sKf6I=
-github.com/soominhyunwoo/tools/lib/runsimaws v1.0.0 h1:IJt4sXA4Hqqm7KuOxfWduiZS02KMkrQTDt/PPiwmX1o=
-github.com/soominhyunwoo/tools/lib/runsimaws v1.0.0/go.mod h1:asuuzE1jU1M5jO8QGlgB4kUexLDlxkUwEU5z8NgbkdE=
+github.com/soominhyunwoo/tools/lib/runsimaws v0.0.1 h1:IJt4sXA4Hqqm7KuOxfWduiZS02KMkrQTDt/PPiwmX1o=
+github.com/soominhyunwoo/tools/lib/runsimaws v0.0.1/go.mod h1:asuuzE1jU1M5jO8QGlgB4kUexLDlxkUwEU5z8NgbkdE=
 github.com/soominhyunwoo/tools/lib/runsimgh v1.0.0 h1:MoVUp+MT13EHYuNhDpcmnKbYsn9dCAvA6ChVZgtboGA=
 github.com/soominhyunwoo/tools/lib/runsimgh v1.0.0/go.mod h1:Th32ntR4b9UB7g1MoqmXqZmcbBz01xBjISxRJJpnv1c=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
